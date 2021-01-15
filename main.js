@@ -25,6 +25,6 @@ if (dates==1){
 if (dates==2){
  document.getElementById("dates").innerHTML = "11/19"
 }
-If (dates==3){
+if (dates==3){
  document.getElementById("dates").innerHTML = "1/22"
 }
