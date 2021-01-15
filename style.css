@@ -1,7 +1,10 @@
 .card{
- background-color: white;
+ background-color: cyan;
  border-radius: 5px;
  padding: 15px;
  border-top-color: cyan;
  border-bottom-color: cyan;
+ width: 500px;
+ color: white;
+ border-radius: 10px;
  }
